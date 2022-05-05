@@ -5,6 +5,7 @@ a simple GUI application to draw a function of one variable
 
 # Setup
 1. From the command line create a virtual environment and activate.
+
 ```sh
 # Windows
 > python -m venv .venv
