@@ -4,7 +4,7 @@ import numpy as np
 class PLOT:
 
     def __init__(self, function: str, min: int, max: int) -> None:
-        self.valide_function = function
+        self.valide_function = function.replace("^","**")
         self.min = min
         self.max = max
 
