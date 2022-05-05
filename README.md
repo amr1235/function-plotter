@@ -24,3 +24,9 @@ a simple GUI application to draw a function of one variable
 ```sh
 > python main.py
 ```
+
+# Screenshots
+![image](./screenshots/image1.png)
+![image](./screenshots/image2.png)
+![image](./screenshots/image3.png)
+![image](./screenshots/image4.png)
